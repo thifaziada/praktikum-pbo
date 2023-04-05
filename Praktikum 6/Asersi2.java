@@ -27,4 +27,5 @@ public class Asersi2{
 		System.out.println("keliling lingkaran = "+kelilingLingkaran);
 	}
 }
-
+// program diatas jika dijalankan menggunakan enableassertions akan mengeluarkan output "jari jari tidak boleh nol" karena jari-jari diinisialiasikan
+// dengan nilai nol, jika ingin memastikan bahwa asersi itu berhasil  maka nilai jari-jari harus di inisiliasikan dengan angka > nol.
