@@ -26,3 +26,6 @@ public class AngkaSial{
 		}
 	}
 }
+//PERTANYAAN: 
+//Ketika eksepsi terjadi, apakah baris 12 pada AngkaSial.java di atas dieksekusi? 
+//Apakah baris 21 pada AngkaSial.java di atas dieksekusi? 
