@@ -22,4 +22,5 @@ public class BangunDatarGeneric<T1 extends BangunDatar>{
 		return bangunDatar.hitungKeliling();
 	}
 }
-//Mengganti 'T' dengan karakter lain, seperti T1, T2, T1234 merupakan salah satu metode untuk memberikan nama pada parameter genetik yang lebih deskriptif. Metode ini bertujuan untuk memberikan fleksibilitas dan membedakan jika terdapat lebih dari satu parameter generik dalam kelas.
+//Mengganti 'T' dengan karakter lain, seperti T1, T2, T1234 merupakan salah satu metode untuk memberikan nama pada parameter genetik yang lebih deskriptif. 
+//Metode ini bertujuan untuk memberikan fleksibilitas dan membedakan jika terdapat lebih dari satu parameter generik dalam kelas.
